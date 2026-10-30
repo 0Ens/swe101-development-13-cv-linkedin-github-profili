@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  line-height: 1.35;
+  color: #1a1a1a;
+}
+
+h1 {
+  font-size: 20pt;
+  margin: 0 0 4pt;
+}
+
+h2 {
+  font-size: 11pt;
+  text-transform: uppercase;
+  letter-spacing: 0.5pt;
+  border-bottom: 1px solid #888;
+  padding-bottom: 2pt;
+  margin: 11pt 0 5pt;
+}
+
+p {
+  margin: 0 0 3pt;
+}
+
+ul {
+  margin: 0 0 6pt;
+  padding-left: 14pt;
+}
+
+li {
+  margin-bottom: 1pt;
+}
+
+a {
+  color: #0b5cad;
+  text-decoration: none;
+}
