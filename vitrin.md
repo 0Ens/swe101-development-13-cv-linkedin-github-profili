@@ -26,10 +26,10 @@ Not: 07'de 15 API testi eskimiş olduğu için düşüyordu. Düzeltirken testle
 | Pin | Repo | Neden seçildi |
 |-----|------|---------------|
 | 1 | 10 deployment-ve-docker | Canlı çalışan tek tam uygulama: arayüz, API, veritabanı, Dockerfile ve CI bir arada. |
-| 2 | 12 rol-turu-embedded-game | Herkesin tıklayıp oynayabildiği yayınlanmış bir ürün; 36 testle en çok test içeren repo. |
-| 3 | 11 rol-turu-mobile | Path'te en sevdiğim proje; web dışında mobil geliştirme yaptığımı gösteriyor. |
-| 4 | 08 auth-ve-guvenlik-temelleri | Backend'e yatkın olduğumu ve güvenlik kararlarını gerekçelendirebildiğimi gösteriyor. |
-| 5 | 05 javascript-dom-fetch | Yükleniyor ve hata durumları olan, framework'süz JavaScript örneği. |
+| 2 | 11 rol-turu-mobile | Path'te en sevdiğim proje; web dışında mobil geliştirme yaptığımı gösteriyor. |
+| 3 | 12 rol-turu-embedded-game | Herkesin tıklayıp oynayabildiği yayınlanmış bir ürün; 36 testle en çok test içeren repo. |
+| 4 | 05 javascript-dom-fetch | Yükleniyor ve hata durumları olan, framework'süz JavaScript örneği. |
+| 5 | 08 auth-ve-guvenlik-temelleri | Backend'e yatkın olduğumu ve güvenlik kararlarını gerekçelendirebildiğimi gösteriyor. |
 | 6 | 02 veri-yapilari-algoritmik-dusunme | AI'ın yazdığı kodu değerlendirip ölçerek iyileştirdiğimi gösteriyor. |
 
 Pinlenmeyenler: 01, 03, 04, 06, 07 ve 09. 01 ve 03 temel alıştırmalar; 06 ve 07 aynı API'nin ara sürümleri, son hali 08'de; 09'daki uygulamanın canlı hali 10'da. 04 kişisel sayfa olduğu için profilden ayrıca linkleniyor.
