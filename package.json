@@ -4,9 +4,12 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "test": "vitest run",
+    "check-links": "node src/check-links.js",
     "cv": "md-to-pdf cv/cv.md --config-file cv/md-to-pdf.config.cjs"
   },
   "devDependencies": {
-    "md-to-pdf": "^5.2.5"
+    "md-to-pdf": "^5.2.5",
+    "vitest": "^5.0.5"
   }
 }
