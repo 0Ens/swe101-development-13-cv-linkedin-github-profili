@@ -1,0 +1,12 @@
+{
+  "name": "swe101-development-13-cv-linkedin-github-profili",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cv": "md-to-pdf cv/cv.md --config-file cv/md-to-pdf.config.cjs"
+  },
+  "devDependencies": {
+    "md-to-pdf": "^5.2.5"
+  }
+}
