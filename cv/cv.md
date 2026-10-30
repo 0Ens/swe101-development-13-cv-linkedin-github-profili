@@ -1,6 +1,6 @@
 # Enes Erul
 
-Eskişehir, Türkiye · [eneserul0@gmail.com](mailto:eneserul0@gmail.com) · [GitHub](https://github.com/0Ens) · [LinkedIn](https://www.linkedin.com/in/enes-erul-082b4028a/) · [Personal page](https://0ens.github.io/development-04-html-css-temelleri/)
+Eskişehir, Türkiye · [eneserul0@gmail.com](mailto:eneserul0@gmail.com) · [GitHub](https://github.com/0Ens) · [LinkedIn](https://www.linkedin.com/in/enes-erul/) · [Personal page](https://0ens.github.io/development-04-html-css-temelleri/)
 
 Software Engineering student looking for a mandatory internship. I lean towards backend and enjoy mobile development.
 

@@ -1,6 +1,6 @@
 # LinkedIn
 
-Profil: https://www.linkedin.com/in/enes-erul-082b4028a/
+Profil: https://www.linkedin.com/in/enes-erul/
 
 ## Başlık
 
